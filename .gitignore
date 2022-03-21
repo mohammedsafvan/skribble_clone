@@ -12,6 +12,7 @@ db.js
 windows/
 web/
 */ip.dart
+server/node_modules
 
 # IntelliJ related
 *.iml
